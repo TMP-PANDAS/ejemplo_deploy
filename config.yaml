@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    beto:
+      email: beto@gmail.com
+      name: Alberto Aguilar
+      password: $2b$12$mQQ/c78QQHlpgLlww7lL9.LDgcuXwx1QGAjayuLkpNuIC2ZWVnLRC
+    james:
+      email: james@gmail.com
+      name: James Hetfield
+      password: $2b$12$hashed_password_here
+
+cookie:
+  name: dashboard_cookie
+  key: random_signature_key  # Cambia esto por una clave segura
+  expiry_days: 30
